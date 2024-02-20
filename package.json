@@ -1,0 +1,22 @@
+{
+  "name": "d1dtest",
+  "version": "1.0.3",
+  "description": "This is dummy Sdk for passwordless decentrallized authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaadMalik121/d1dTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaadMalik121/d1dTest/issues"
+  },
+  "homepage": "https://github.com/SaadMalik121/d1dTest#readme",
+  "dependencies": {
+    "d1dtest": "^1.0.0"
+  }
+}
